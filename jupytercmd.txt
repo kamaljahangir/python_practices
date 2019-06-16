@@ -1,0 +1,238 @@
+    1  adduser adhoc
+    2  sudo -i
+    3  exit
+    4  sudo -i
+    5  exit
+    6  sudo -i
+    7  exit
+    8  sudo -i
+    9  sudo -i
+   10  exit
+   11  sudo -i
+   12  ls
+   13  sudo -i
+   14  exit
+   15  sudo -i
+   16  jupyter-notebook --no-browser --ip=0.0.0.0 --port=9999 &>/dev/null &
+   17  jupyter-notebook list
+   18  http://0.0.0.0:9999/?token=b574c055d630dc2e3b3241ad70cb7f8a26034c8c03c0ca71 :: /home/ec2-userhttp://0.0.0.0:9999/?token=b574c055d630dc2e3b3241ad70cb7f8a26034c8c03c0ca71 :: /home/ec2-user
+   19  jupyter-notebook list
+   20  jupyter-notebook --no-browser --ip=0.0.0.0 --port=9999 &>/dev/null &
+   21  jupyter-notebook list
+   22  vim .bashrc
+   23  source .bashrc
+   24  jupyter
+   25  vim .bashrc
+   26  source .bashrc
+   27  jupyter1
+   28  jupyter-notebook list
+   29  clear
+   30  sudo pip3 install matplotlib
+   31  python3
+   32  sudo yum install pip3
+   33  sudo -i
+   34  sudo yum install python36-setuptools
+   35  iptable -F
+   36  iptables -F
+   37  clear
+   38  sudo python36 -m pip install --upgrade pip
+   39  sudo /usr/local/bin/pip3 install
+   40  sudo /usr/local/bin/pip3 install pip3
+   41  sudo python3.6 -m ensurepip
+   42  hash -r
+   43  pip3 -V
+   44  which pip3
+   45  pip3
+   46  sudo pip3 install matplotlib
+   47  clear
+   48  sudo -i
+   49  python3.6 -m pip uninstall pip
+   50  python3.6 -m virtualenv myproject1
+   51  ln -s /opt/rh/rh-python36/root/usr/bin/virtualenv ~/bin/virtualenv3.6
+   52  clear
+   53  sudo -i
+   54  clear
+   55  sudo pip3 install matplotlib
+   56  which pip3
+   57  sudo /usr/local/bin/pip3 install matplotlib
+   58  clear
+   59  history
+   60  pip3 -v
+   61  pip3 -V
+   62  ls
+   63  which pip3
+   64  cp /usr/local/bin/pip3 /usr/share
+   65  claer
+   66  clear
+   67  jupyter1
+   68  vim .bashrc
+   69  source .bashrc
+   70  code
+   71  jupyter-notebook list
+   72  sudo -i
+   73  sudo tar -xf spark-2.4.3-bin-hadoop2.7.tgz
+   74  clear
+   75  sudo -i
+   76  exit
+   77  sudo -i
+   78  vim .bashrc
+   79  source .bashrc
+   80  code
+   81  vim /.bashrc
+   82  sudo -i
+   83  clear
+   84  vim /.bashrc
+   85  vim .bashrc
+   86  source .bashrc
+   87  code
+   88  jupyter-notebook list
+   89  code
+   90  jupyter-notebook --no-browser --ip=0.0.0.0 --port=9999 &>/dev/null &
+   91  jupyter-notebook list
+   92  http://0.0.0.0:9999/ :: /home/ec2-userhttp://0.0.0.0:9999/ :: /home/ec2-user
+   93  clear
+   94  ls
+   95  sudo -i
+   96  jupyter-notebook --no-browser --ip=0.0.0.0 --port=9999 &>/dev/null &
+   97  jupyter-notebook list
+   98  vim .bashrc
+   99  source .bashrc
+  100  code
+  101  jupyter
+  102  exit
+  103  which pip
+  104  which pip3
+  105  /usr/local/bin/pip3 install jupyter
+  106  jupyter-notebook --no-browser --ip=0.0.0.0 --port=9999 &>/dev/null &
+  107  jupyter-notebook list
+  108  exit
+  109  jupyter
+  110  jupyter-notebook list
+  111  http://0.0.0.0:9999/ :: /home/ec2-user
+  112  jupyter-notebook list
+  113  jupyter-notebook --no-browser --ip=0.0.0.0 --port=9999 &>/dev/null &
+  114  jupyter-notebook list
+  115  http://0.0.0.0:10000/ :: /home/ec2-user
+  116  clear
+  117  ls
+  118  jupyter
+  119  jupyter-notebook list
+  120  vim .bashrc
+  121  jupyter-notebook --no-browser --ip=0.0.0.0 --port=8888 &>/dev/null &
+  122  jupyter-notebook list
+  123  source .bashrc
+  124  jupyter
+  125  jupyter-notebook list
+  126  http://0.0.0.0:8888/ :: /home/ec2-user
+  127  spark-shell
+  128  sudo -i
+  129  exit
+  130  which pip3
+  131  /usr/local/bin/pip3 install pip-autoremove
+  132  sudo  /usr/local/bin/pip3 install pip-autoremove
+  133  which pip-autoremove
+  134  /usr/local/bin/pip-autoremove jupyter -y
+  135  sudo /usr/local/bin/pip-autoremove jupyter -y
+  136  clear
+  137  which jupyter
+  138  vim .bashrc
+  139  source .bashrc
+  140  pip3 freeze | grep jupyter
+  141  sudo /usr/local/bin/pip-autoremove jupyter -y
+  142  clear
+  143  python3
+  144  which jupyter
+  145  which pip3
+  146  /usr/local/bin/pip3  uninstall notebook
+  147  sudo /usr/local/bin/pip3  uninstall notebook
+  148  clear
+  149  python3
+  150  which jupyter
+  151  vim .bashrc
+  152  clear
+  153  which pip3
+  154  /usr/local/bin/pip3 jupyter
+  155  /usr/local/bin/pip3 install jupyter
+  156  sudo /usr/local/bin/pip3 install jupyter
+  157  jupyter-notebook --no-browser --ip=0.0.0.0 --port=8888 &>/dev/null &
+  158  jupyter-notebook list
+  159  reboot
+  160  clear
+  161  which jupyter
+  162  jupyter
+  163  jupyter-notebook list
+  164  jupyter
+  165  jupyter-notebook --no-browser --ip=0.0.0.0 --port=8888 &>/dev/nul &
+  166  jupyter-notebook --no-browser --ip=0.0.0.0 --port=8888 &>/dev/null &
+  167  jupyter notebook
+  168  clear
+  169  jupyter-notebook list
+  170  http://0.0.0.0:8888/ :: /home/ec2-user
+  171  python3
+  172  which spark
+  173  sudo -i
+  174  jupyter-notebook --no-browser --ip=0.0.0.0 --port=8888 &>/dev/null &
+  175  jupyter-notebook list
+  176  jupyter-notebook --no-browser --ip=0.0.0.0 --port=8888 &>/dev/null &
+  177  vim .bashrc
+  178  source .bashrc
+  179  ls
+  180  pwd
+  181  notebook list
+  182  jupyter-notebook list
+  183  sudo -i
+  184  jupyter-notebook --no-browser --ip=0.0.0.0 --port=8888 &>/dev/null &
+  185  jupyter-notebook list
+  186  clear
+  187  exit
+  188  clear
+  189  code
+  190  jupyter-notebook --no-browser --ip=0.0.0.0 --port=8888 &>/dev/null &
+  191  jupyter-notebook list
+  192  code
+  193  vim .bashrc
+  194  source .bashrc
+  195  code
+  196  jupyter-notebook list
+  197  clear
+  198  spark
+  199  spark24
+  200  sudo -i
+  201  spark-shell
+  202  sudo -i
+  203  exit
+  204  sudo -i
+  205  code
+  206  jupyter-notebook list
+  207  jupyter notebook --no-browser
+  208  ls
+  209  sudo -i
+  210  code
+  211  jupyter-notebook list
+  212  jupyter notebook
+  213  clear
+  214  jupyter
+  215  jupyter --version
+  216  which jupyter
+  217  rpm -qlc jupyter
+  218  rpm -qc jupyter
+  219  jupyter notebook --generate-config
+  220  vi /home/ec2-user/.jupyter/jupyter_notebook_config.py
+  221  python3
+  222  openssl req -x509 -nodes -days 365 -newkey rsa:4096 -keyout jkey.key -out jcert.pem
+  223  vi /home/juser/.jupyter/jupyter_notebook_config.py
+  224  vi /home/ec2-user/.jupyter/jupyter_notebook_config.py
+  225  sudo firewall-cmd --zone=public --add-port=8888/tcp --permanent
+  226  iptables -F
+  227  sudo setenforce 0
+  228  sudo iptables -F
+  229  jupyter notebook
+  230  vi /home/ec2-user/.jupyter/jupyter_notebook_config.py
+  231  jupyter notebook
+  232  vi /home/ec2-user/.jupyter/jupyter_notebook_config.py
+  233  jupyter notebook
+  234  clear
+  235  jupyter-notebook list
+  236  http://0.0.0.0:8888/ :: /home/ec2-user
+  237  history
+  238  history >history3.txt
